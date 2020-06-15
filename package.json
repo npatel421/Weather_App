@@ -1,0 +1,20 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "This project describes the project.json file in detail and explains what goes inside it.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npatel421/Weather-App.git"
+  },
+  "author": "Nisarg Patel <npatel42@vols.utk.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npatel421/Weather-App/issues"
+  },
+  "homepage": "https://github.com/npatel421/Weather-App#readme"
+}
